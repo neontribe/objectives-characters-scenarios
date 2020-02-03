@@ -1,6 +1,6 @@
 # Personas in Practice
 
-A three hour workshop introducing Personas and their use in digital product design and development.
+A two hour workshop introducing Personas and their use in digital product design and development.
 
 Intended for use by groups of 6 - 30.
 
@@ -72,17 +72,16 @@ Slides to support the workshop are available at: https://neontribe.github.io/per
 			* Identify areas for improvement
 				* The pain point yields a persona and a scenario for ideation
 		* **BREAK** (15)
-		* **Excercise 4: Journey Map**
-			* Introduce MOMO (5 min)
+		* **Excercise 4: Usability testing**
+			* Introduce Ollee (5 min)
 			* Assess persona relevance (5 min)
-			* (opt) Create another persona (10)
-			* Map the sign-up process (15 min)
+			* Explore the process (15 min)
 				* Explore the sign-up process on screen as a group
 			* Run your persona through it. (10 min)
 			* List the pain points you discover (5 min)
 1. **Personas Imperfect** [10]
-	* Not a substitute for usability testing
-	* Persona Creation can be manipulated
+	* Not a substitute for usability testing by real users
+	* Persona creation can be manipulated
 		* To support a preconception
 		* To be a proxy for real individuals
 	* Personas can become stereotypes too easily
